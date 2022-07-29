@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://jazzy-meringue-70f967.netlify.app"
 languageCode: en-us
 title: Obsidian Vault
 theme: m10c
