@@ -1,4 +1,4 @@
-baseURL: "https://obsidianvault.netlify.app/"
+baseURL: https://obsidianvault.netlify.app/
 languageCode: en-us
 title: Obsidian Vault
 theme: m10c
